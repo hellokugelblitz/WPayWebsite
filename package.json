@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  },
+  "dependencies": {
+    "animejs": "^3.2.2",
+    "scrollmagic": "^2.0.8"
+  }
+}
